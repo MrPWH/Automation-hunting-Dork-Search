@@ -24,7 +24,9 @@ python3 dork4me.py (--help/-h)
 python3 dork4me.py (2 mode - onliner / in application)
 ```
 2.export links to csv file
+
 save file to links.txt
+
 3.set tor service for search
 
 in dork4me.py =>change proxy
