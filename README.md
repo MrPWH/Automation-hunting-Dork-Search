@@ -19,13 +19,20 @@ pip install -r requirements.txt
 ```
 ## Flow Diagram
 1.google search complate
-
+```bash
+python3 dork4me.py (--help/-h)
+python3 dork4me.py (2 mode - onliner / in application)
+```
 2.export links to csv file
-
+save file to links.txt
 3.set tor service for search
 
-4.set proxy for search
+in dork4me.py =>change proxy
 
+4.save all links to html
+```bash
+bash save.sh
+```
 
 ## Problems
 1.Get error "429 to many request"
